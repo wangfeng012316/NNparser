@@ -9,3 +9,4 @@ scikit-image
 graphviz
 python-graphviz
 pydot
+torchvision
